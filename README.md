@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NIMADORJEELAMA
-- 👀 I’m interested in mobile app development and somewhat machine learning and robotics
-- 🌱 I’m currently learning c and Python
+- 👀 I’m interested in website development and somewhat machine learning and robotics
+- 🌱 I’m currently learning c++ and Python & Django
 - 💞️ I’m looking to collaborate on anything as you 
 - 📫 How to reach me nimadorjee.it@gmail.com
 
