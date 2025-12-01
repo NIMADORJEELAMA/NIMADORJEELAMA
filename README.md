@@ -4,7 +4,7 @@ I'm Nima Dorjee Lama, a Full Stack Developer based in Kolkata, India (originally
 
 I specialize in building **fast, modern, and scalable web applications**. My focus is on writing clean, maintainable code to solve real-world problems.
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&label=Profile%20views&color=success&style=flat)
+![](https://komarev.com/ghpvc/?username=NIMADORJEELAMA&label=Profile%20views&color=success&style=flat)
 
 ### ⚡ Tech I have worked with
 
