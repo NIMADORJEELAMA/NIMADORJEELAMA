@@ -1,6 +1,6 @@
-# Hi there ~ 👋
+# Hi there
 
-I'm **Nima Dorjee Lama**, a Full Stack Developer based in Kolkata, India (originally from Jaigaon).
+I'm Nima Dorjee Lama, a Full Stack Developer based in Kolkata, India (originally from Jaigaon).
 
 I specialize in building **fast, modern, and scalable web applications**. My focus is on writing clean, maintainable code to solve real-world problems.
 
